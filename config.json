@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpetch",
+        "uuid": 9930312,
+        "checksum": "wzsowa"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
